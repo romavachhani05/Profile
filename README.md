@@ -3,4 +3,4 @@
 - 📊 Skilled in SQL, Tableau, Power BI, Python, Agile (CSM, CSPO), and PMP-in-progress
 - 🌱 Currently learning: AWS Cloud Practitioner | AI for Product Owners
 - 📁 Portfolio: [Your Portfolio Link]
-- 📫 Let's connect: [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Let's connect: [LinkedIn]([https://www.linkedin.com/in/roma-v-2b393414/)
